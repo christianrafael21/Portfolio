@@ -2,11 +2,8 @@ html,body{
     background: black;
 }
 .navegacao{
-    margin-left: 3.5%;
-    margin-right: 3.5%;
-    border-radius: 2%;
     background: linear-gradient(-10deg , rgb(0, 0, 0) , rgb(255, 255, 255)), rgb(76, 76, 76);
-    animation: efect-background 10s ease infinite;
+    animation: efect-background infinite;
 }
   
   @keyframes efect-background {
@@ -20,6 +17,39 @@ html,body{
         background-position: 0 50%;
     }
 }
-.foto{
-    border-radius: 80%;
+.apresentacao{
+  margin-top: 10%;
+}
+.cmais img:hover{
+  opacity: 80%;
+}
+.css img:hover {
+  opacity: 80%;
+}
+
+.htmlfoto img:hover{
+  opacity: 80%;
+}
+
+.js img:hover{
+  opacity: 80%;
+}
+
+.linguagemc img:hover{
+  opacity: 80%;
+}
+
+.python img:hover{
+  opacity: 80%;
+}
+.javascriptimg img:hover{
+  opacity: 70%;
+}
+
+.habil-texto{
+  margin-top: 10%;
+}
+
+.rodape{
+  margin-top: 10%;
 }
