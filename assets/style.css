@@ -1,0 +1,25 @@
+html,body{
+    background: black;
+}
+.navegacao{
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    border-radius: 2%;
+    background: linear-gradient(-10deg , rgb(0, 0, 0) , rgb(255, 255, 255)), rgb(76, 76, 76);
+    animation: efect-background 10s ease infinite;
+}
+  
+  @keyframes efect-background {
+    0%{
+      background-position: 0 50%;
+    }
+    50%{
+      background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
+.foto{
+    border-radius: 80%;
+}
