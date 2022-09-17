@@ -1,4 +1,7 @@
 html,body{
+  margin:0;
+  padding: 0;
+  text-decoration: none;
   background: black;
   background: url("./img/backgroundfundo.png") top fixed;
   font-family: 'Reem Kufi Ink', sans-serif;
@@ -62,5 +65,5 @@ html,body{
 }
 
 .rodape{
-  margin-top: 10%;
+  box-shadow: 2px 2px 10px rgb(255, 255, 255);
 }
