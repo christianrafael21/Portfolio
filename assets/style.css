@@ -19,13 +19,16 @@ html,body{
         background-position: 0 50%;
     }
 }
+.cor-textnav{
+  color:rgb(191, 191, 191);
+}
 .apresentacao{
   margin-top: 10%;
 }
 .visobj{
   width: 100%;
   padding: 2% 2% 2% 2%; 
-  border:solid rgb(234, 131, 131);
+  border: solid rgb(54, 10, 10);
   border-width: 10% 5%;
 }
 .cmais img:hover{
