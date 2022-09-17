@@ -1,8 +1,10 @@
 html,body{
-    background: black;
+  background: black;
+  background: url("./img/backgroundfundo.png") top fixed;
+  font-family: 'Reem Kufi Ink', sans-serif;
 }
 .navegacao{
-    background: linear-gradient(-10deg , rgb(0, 0, 0) , rgb(255, 255, 255)), rgb(76, 76, 76);
+    background: linear-gradient(10deg , rgb(0, 0, 0) , rgb(47, 47, 47)), rgb(0, 0, 0);
     animation: efect-background infinite;
 }
   
@@ -19,6 +21,12 @@ html,body{
 }
 .apresentacao{
   margin-top: 10%;
+}
+.visobj{
+  width: 100%;
+  padding: 2% 2% 2% 2%; 
+  border:solid rgb(234, 131, 131);
+  border-width: 10% 5%;
 }
 .cmais img:hover{
   opacity: 80%;
