@@ -34,12 +34,15 @@ html,body{
   border: solid rgb(54, 10, 10);
   border-width: 10% 5%;
 }
-.cmais img:hover{
+.cmais{
+  background-color: black;
+}
+/* .cmais img:hover{
   opacity: 80%;
 }
 .css img:hover {
   opacity: 80%;
-}
+} */
 
 .htmlfoto img:hover{
   opacity: 80%;
