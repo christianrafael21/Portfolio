@@ -34,34 +34,22 @@ html,body{
   border: solid rgb(54, 10, 10);
   border-width: 10% 5%;
 }
-.cmais{
-  background-color: black;
+.lhtml{
+  color: rgb(255, 72, 0);
 }
-/* .cmais img:hover{
-  opacity: 80%;
+.lcss{
+  color: rgb(0, 76, 255);
 }
-.css img:hover {
-  opacity: 80%;
-} */
-
-.htmlfoto img:hover{
-  opacity: 80%;
+.ljavascript{
+  color: yellow;
 }
-
-.js img:hover{
-  opacity: 80%;
+.lcplus{
+  color: rgb(29, 0, 92);
+}
+.texticon{
+  color:white;
 }
 
-.linguagemc img:hover{
-  opacity: 80%;
-}
-
-.python img:hover{
-  opacity: 80%;
-}
-.javascriptimg img:hover{
-  opacity: 70%;
-}
 
 .habil-texto{
   margin-top: 5%;
