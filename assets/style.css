@@ -4,7 +4,6 @@ html,body{
   text-decoration: none;
   background: black;
   background: url("./img/backgroundfundo.png") top fixed;
-  font-family: 'Reem Kufi Ink', sans-serif;
 }
 .navegacao{
     background: linear-gradient(10deg , rgb(0, 0, 0) , rgb(47, 47, 47)), rgb(0, 0, 0);
@@ -22,9 +21,7 @@ html,body{
         background-position: 0 50%;
     }
 }
-.cor-textnav{
-  color:rgb(191, 191, 191);
-}
+
 .apresentacao{
   margin-top: 10%;
 }
@@ -43,14 +40,47 @@ html,body{
 .ljavascript{
   color: yellow;
 }
+.ljavascriptproject{
+  color: rgb(115, 0, 46);
+}
+.ljavascriptproject:hover{
+  color: rgb(46, 0, 19);
+}
+
 .lcplus{
   color: rgb(29, 0, 92);
 }
 .texticon{
   color:white;
 }
-
-
+.linkedinstyle{
+  color: rgb(14,118,168);
+}
+.linkedinstyle:hover{
+  pointer-events: fill;
+  color:  rgb(0, 58, 84);
+}
+.gitstyle{
+  color: white;
+}
+.gitstyle:hover{
+  pointer-events: fill;
+  color: rgb(171, 171, 171);
+}
+.instastyle{
+  color: rgb(255, 74, 74);
+}
+.instastyle:hover{
+  pointer-events: fill;
+  color: rgb(109, 2, 2);
+}
+.emailstyle{
+  color: rgb(0, 141, 30);
+}
+.emailstyle:hover{
+  pointer-events: fill;
+  color: rgb(0, 47, 10);
+}
 .habil-texto{
   margin-top: 5%;
 }
