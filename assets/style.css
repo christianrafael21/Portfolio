@@ -37,6 +37,9 @@ html,body{
 .lcss{
   color: rgb(0, 76, 255);
 }
+.lboot{
+  color: rgb(71, 0, 158)
+}
 .ljavascript{
   color: yellow;
 }
@@ -48,7 +51,7 @@ html,body{
 }
 
 .lcplus{
-  color: rgb(29, 0, 92);
+  color: rgb(0, 183, 255);
 }
 .texticon{
   color:white;
